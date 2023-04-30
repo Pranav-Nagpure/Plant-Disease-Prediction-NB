@@ -3,6 +3,7 @@ import keras.layers as layers
 import keras.activations as activations
 from keras.initializers import VarianceScaling
 
+
 # Stage 1
 def stem(x, filters):
     """
@@ -183,7 +184,7 @@ def top(x, filters):
     return x
 
 
-def efficient_net(x, depth_factor=1, width_factor=1):
+def EfficientNet(x, depth_factor=1, width_factor=1):
     """
     Efficient Net
 
