@@ -12,8 +12,6 @@
 [![NumPy][numpy-shield]][numpy-url]
 [![Pandas][pandas-shield]][pandas-url]
 
-Visit the <a href="https://plantdisease-predictor.onrender.com">Web Application</a> deployed on render
-
 Visit the <a href="https://github.com/Pranav-Nagpure/Plant-Disease-Prediction">GitHub Repository</a> of Web Application
 
 </div>
